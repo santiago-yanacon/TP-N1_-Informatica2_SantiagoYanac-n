@@ -1,0 +1,2 @@
+# TP-N1_-Informatica2_SantiagoYanac-n
+En este respositorio se encuentra la resolución del Trabajo Práctico N°1 el cual consta de refactorizar un código de un final de Informática 1. En el trabajo se aplican los conceptos de separación de archivos, uso de funciones y estructuras en C. 
